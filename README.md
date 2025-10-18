@@ -1,4 +1,4 @@
-# 🚀 NixOS Configuration
+# 🚀 NixOS Configuration [WIP]
 
 <div align="center">
 
@@ -6,11 +6,9 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-FF4088?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-*A modern, reproducible NixOS configuration with focus on developer experience and privacy*
+*My NixOS configuration*
 
 </div>
-
-## ✨ Features
 
 ### 🖥️ Desktop Environment
 - **Hyprland** - Modern Wayland compositor
@@ -46,5 +44,3 @@
 - **Browsers**: Firefox, Librewolf
 - **Messaging**: Telegram Desktop
 - **RSS**: Newsboat
-
-## 🏗️ Structure
