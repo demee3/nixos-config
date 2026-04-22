@@ -1,0 +1,9 @@
+[manager]
+layout = [ 1, 2, 7 ]
+show_hidden = true
+sort_by = "name"
+sort_dir_first = true
+
+[preview]
+max_width = 1000
+max_height = 1000
